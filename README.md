@@ -6,7 +6,7 @@ About This is a project which has REST API services of Books using Apache Camel 
 <br>
 APPDB_CONN_POOL_TYPE=oracle.ucp.jdbc.PoolDataSource
 <br>
-APPDB_URL=jdbc:oracle:thin:@192.168.50.10:1521:orcl?autoReconnect=true&useSSL=false
+APPDB_URL=jdbc:oracle:thin:@port_number:1521:orcl?autoReconnect=true&useSSL=false
 <br>
 APPDB_URL_PASSWORD=pass
 <br>
