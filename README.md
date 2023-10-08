@@ -8,9 +8,9 @@ APPDB_CONN_POOL_TYPE=oracle.ucp.jdbc.PoolDataSource
 <br>
 APPDB_URL=jdbc:oracle:thin:@192.168.50.10:1521:orcl?autoReconnect=true&useSSL=false
 <br>
-APPDB_URL_PASSWORD=BPM_APPDB
+APPDB_URL_PASSWORD=pass
 <br>
-APPDB_URL_USERNAME=BPM_APPDB
+APPDB_URL_USERNAME=username
 <br>
 JAEGER_ENDPOINT=/api/v1
 <br>
